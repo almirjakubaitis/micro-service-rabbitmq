@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+
+# Testing
+coverage
+
+# Environment
+.env.local
+.env.*.local
+
+# Build
+dist
+
+# PersonalFiles
+docker-commands.txt
+
+#RabbitMQFiles
+dados/.*
+dados/*
