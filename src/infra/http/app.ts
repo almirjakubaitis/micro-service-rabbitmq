@@ -2,9 +2,9 @@ import cors from 'cors'
 import { config } from 'dotenv-flow'
 import express from 'express'
 
-config({ silent: true })
+import { routes } from './routes'
 
-import { routes } from './routes' // eslint-disable-line
+config({ silent: true })
 
 const app = express()
 

@@ -1,5 +1,5 @@
 {
-  "name": "websocketio",
+  "name": "microservice-rabbitmq",
   "version": "0.0.1",
   "description": "Microserviço do Rabbit MQ",
   "main": "index.js",
